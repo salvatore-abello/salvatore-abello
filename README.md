@@ -32,4 +32,4 @@ Here are some of the languages and technologies I'm familiar with:
 [![Discord Badge](https://img.shields.io/badge/discord-5563f0?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/565651758617985027)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/terzo_account)
 
-![Profile Views](https://komarev.com/ghpvc/?username=salvatore-abello)
+![](https://komarev.com/ghpvc/?username=salvatore-abello)
