@@ -19,8 +19,8 @@ Here are some of the languages and technologies I'm familiar with:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## My CVEs
-- [CVE-2024-25345](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-25345)
-- [CVE-2024-25885](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-25885)
+- [CVE-2024-25345](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-25345) [RESEREVED]
+- [CVE-2024-25885](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-25885) [RESEREVED]
 
 ## Learning
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
