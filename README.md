@@ -6,7 +6,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=salvatore-abello&theme=dark)
 
-Here are some of the languages and technologies I'm familiar with:
+### Here are some of the languages and technologies I'm familiar with:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
