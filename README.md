@@ -1,7 +1,7 @@
 
 # Hi, I'm Salvatore Abello 🌐
 
-- 🛡️ I'm an 18 years old Italian Software Developer, Cybersecurity enthusiast and CTF Player (@Pwnzer0tt1, @mhackeroni)
+- 🛡️ I'm a 19 years old Italian Software Developer, Cybersecurity enthusiast and CTF Player (@Pwnzer0tt1, @mhackeroni)
 - 🌐 I'm good at Web Security and Python Exploitation/Sandbox Escape
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=salvatore-abello&theme=dark)
