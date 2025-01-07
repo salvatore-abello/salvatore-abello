@@ -28,9 +28,11 @@
 - [CVE-2024-25885](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-25885)
 - [CVE-2024-46242](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-46242)
 
+## Currently learning
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+
 ## Planning to learn
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Get in touch
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvatore-abello-411b64252/)
