@@ -26,6 +26,7 @@
 
 ## My CVEs
 - [CVE-2024-25885](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-25885)
+- [CVE-2024-46242](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-46242)
 
 ## Planning to learn
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
